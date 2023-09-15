@@ -37,7 +37,7 @@ export default function FaqCard() {
         </Typography>
         <Accordion open={open === 1}>
           <AccordionHeader onClick={() => handleOpen(1)}>
-            How to Get xSUI (Staking)?
+            How to get xSUI?
           </AccordionHeader>
           <AccordionBody>
             Its very simple, you connect your wallet, select your SUI tokens and
