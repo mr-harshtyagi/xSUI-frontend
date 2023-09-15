@@ -9,7 +9,7 @@ const navigation = [
   { name: "Stake", href: "/stake" },
   {
     name: "Docs",
-    href: "https://docs.ascendancy.finance/https://docs.ascendancy.finance/",
+    href: "https://docs.ascendancy.finance/",
   },
 ];
 
